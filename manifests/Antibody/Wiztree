@@ -1,0 +1,16 @@
+Id: Antibody.Wiztree
+Version: 3.33
+Name: WizTree
+Publisher: Antibody Software
+License: Freeware
+AppMoniker: wiztree
+Tags: storage, file management, disk management
+Homepage: https://antibody-software.com/web/software/software/wiztree-finds-the-files-and-folders-using-the-most-disk-space-on-your-hard-drive/
+Installers:
+  - Arch: Neutral
+    Url: https://antibody-software.com/files/wiztree_3_33_setup.exe
+    Sha256: 18AF7955489A309A21C672122FBFD06FC60BD5351B71462DFAA6C8E2214B9A86
+    InstallerType: inno
+    Switches:
+      Silent: --silent
+      SilentWithProgress: --silent
